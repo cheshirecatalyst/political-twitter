@@ -1,3 +1,8 @@
 http://sferik.github.io/twitter/
+
 Follow Installation Guide
-And follow the link to register your app with twitter
+And to register your app with twitter
+Place the required keys into the app.rb
+
+then type
+ruby app.rb
