@@ -1,10 +1,10 @@
 require 'twitter'
 
 Twitter.configure do |config|
-  config.consumer_key = "key"
-  config.consumer_secret = "key"
-  config.oauth_token = "key"
-  config.oauth_token_secret = "key"
+  config.consumer_key = "insert key from twitter"
+  config.consumer_secret = "intert key from twitter"
+  config.oauth_token = "insert key from twitter"
+  config.oauth_token_secret = "insert key from twitter"
 end
 
 #Twitter.update("Using @gem!!!!!")
