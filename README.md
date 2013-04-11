@@ -1,3 +1,5 @@
+type bundle install
+
 http://sferik.github.io/twitter/
 
 Follow Installation Guide
