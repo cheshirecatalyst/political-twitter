@@ -7,7 +7,6 @@ Twitter.configure do |config|
   config.oauth_token_secret = "insert key from twitter"
 end
 
-#Twitter.update("Using @gem!!!!!")
 tweets = []
 filename = "tweets"
 file = File.new(filename, 'r')
