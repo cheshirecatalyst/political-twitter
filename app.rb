@@ -34,3 +34,6 @@ loop do
     sleep(Random.rand(10..20))
   end
 end
+
+#hai hai hai
+#nother comment
